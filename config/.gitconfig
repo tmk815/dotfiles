@@ -1,0 +1,10 @@
+[user]
+	name = tmk815
+	email = monndenn15@gmail.com
+
+[branch]
+    autosetuprebase = always
+[core]
+	quotepath = false
+[init]
+	defaultBranch = main
